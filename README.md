@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandlereverhart
-- 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning JavaScript, CSS, & HTML
+- 👀 I’m interested in Web & Mobile App Development
+- 🌱 ReactJS, React Native, JavaScript, HTML, CSS
 - 📫 How to reach me: chandlereverhart@gmail.com
 
 <!---
